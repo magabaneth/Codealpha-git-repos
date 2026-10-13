@@ -1,0 +1,10 @@
+Meeting notes - project kickoff
+
+Attendees: john.doe@example.com, jane_smith@company.org
+Please send the report to manager@work-mail.co.uk by Friday.
+
+Contact support at support@example.com or call us.
+Duplicate entry: John.Doe@example.com should only be saved once.
+
+Not an email: hello@ or @nothing or just text.
+Other contacts: sam+news@mail.example.net and dev.team@startup.io
